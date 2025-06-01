@@ -4,7 +4,7 @@ This repository contains two deep learning projects developed for the **Advanced
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 artificial_neural_network_challenges/
@@ -27,9 +27,9 @@ artificial_neural_network_challenges/
 
 ---
 
-## 🧪 Summary of Work
+## Summary of Work
 
-### 🔬 Blood Cell Classification
+### Blood Cell Classification
 
 - **Task**: Classify 8 types of blood cells from ~14,000 labeled images.
 - **Methods**:
@@ -40,7 +40,7 @@ artificial_neural_network_challenges/
   - Fine-tuning with layer unfreezing, class balancing, and dynamic learning rate.
 - **Best Result**: 81% test accuracy with ConvNeXt.
 
-### 🪐 Mars Terrain Segmentation
+### Mars Terrain Segmentation
 
 - **Task**: Segment grayscale Mars images into 5 classes.
 - **Methods**:
@@ -52,7 +52,7 @@ artificial_neural_network_challenges/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python (TensorFlow/Keras)
 - Albumentations, KerasCV
@@ -61,13 +61,13 @@ artificial_neural_network_challenges/
 
 ---
 
-## 📄 Reports
+## Reports
 
 Each project folder contains a PDF report with problem analysis, architectural design, experimental results, and conclusions.
 
 ---
 
-## 👥 Authors
+## Authors
 
 - Nicolò Vacis  
 - Giovanni Vaccarino  
